@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  color: green;
+  
+  background-color: pink;
+  
+}
+#description{
+  color: blue;
+  float: none;
+   margin-bottom: 100px;
+}
