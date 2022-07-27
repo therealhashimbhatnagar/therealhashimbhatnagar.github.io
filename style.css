@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  color: darkgreen;
+  
+  background-color: yellowgreen;
+  
+}
+#description{
+  color: blue;
+  float: none;
+   margin-bottom: 100px;
+  
+}
+
+#review{
+  background: #7cfca3;
+  width: 300px;
+  color: black;
+  font-family: sans-serif;
+}
+#name{
+  padding: 5px
+}
+#content{
+  padding: 5px
+}
